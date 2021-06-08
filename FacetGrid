@@ -1,0 +1,2 @@
+//FacetGrid
+g=sns.FacetGrid(data, row='data', col='data', hue='data')
